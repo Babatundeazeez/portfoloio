@@ -1,0 +1,51 @@
+body {
+    font-family: 'Roboto', sans-serif; 
+}
+.f {
+    color: whitesmoke;
+}
+.ll {
+    color: whitesmoke;
+    text-align: justify;
+}
+.ad {
+    position: sticky;
+    top: 0px;
+    z-index: 1;
+    
+}
+.ao {
+    width: 250px;
+    border-radius: 7px;
+}
+.ab {
+    width: 40px;
+    height: 40px;
+    border: 1px solid lightblue;
+    border-radius: 100%;
+    background-color: rgb(50,114,151);
+}
+.as {
+    margin-top: 10%
+}
+.az {
+    margin-top: 50px;
+}
+.ax {
+    width: 250px;
+    border-radius: opx 40px 0px 30px;
+    color: white;
+}
+.cc {
+    width: 300px;
+}
+ .ac1 {
+    display: flex;
+    justify-content: space-around;
+} 
+.ac2 {
+    position: absolute;
+    z-index: -1;
+}
+
+ 
